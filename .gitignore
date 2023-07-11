@@ -2,3 +2,7 @@
 .DS_Store
 Data/akas_original.csv.gz
 Data/basics_original.csv.gz
+.ipynb_checkpoints/IMDB-What_Makes_Successful_Movies-checkpoint.ipynb
+.ipynb_checkpoints/What_Makes_Successful_Movies-EDA-checkpoint.ipynb
+.ipynb_checkpoints/What_Makes_Successful_Movies-API_Calls-checkpoint.ipynb
+.ipynb_checkpoints/IMDB-WMMS-Financial_Data-checkpoint.ipynb
